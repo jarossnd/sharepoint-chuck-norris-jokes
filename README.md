@@ -25,6 +25,6 @@ Chuck Norris and Sharepoint
 21. Chuck Norris doesn’t use VB.NET to customize SharePoint. Chuck Norris will always See Sharp!
 22. If you search for Chuck Norris on SharePoint, you won’t find him. He will find you.
 23. When Chuck performs an stsadm operation he doesn’t need -immediate to schedule the job, it has already occurred.
-24. When check performs an stsadm operation he doesn’t need -force. SharePoint detects the power that the enter key is struck with and applies force by default.
+24. When Chuck performs an stsadm operation he doesn’t need -force. SharePoint detects the power that the enter key is struck with and applies force by default.
 25. Chuck doesn’t catch SPExceptions, he roundhouse kicks them right back.
 26. SharePoint 2010 was a Chuck Norris idea.
